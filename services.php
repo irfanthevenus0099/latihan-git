@@ -1,5 +1,5 @@
 <?PHP
 
-echo"tes";
+echo"INI DATA SERVICE EDIT";
 
 ?>
