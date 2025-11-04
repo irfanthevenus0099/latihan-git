@@ -1,5 +1,5 @@
 <?php
 
-ECHO "data indenx ";
+ECHO "data indenx edit ke 2";
 
 ?>
