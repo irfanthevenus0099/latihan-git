@@ -1,0 +1,5 @@
+secret/
+main.php
+*.log
+.env
+dist/
